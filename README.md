@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm chisenon ！
+## I'm Chisenon ！
 # Who am i ?
 I'm a student at TDU.
 <br>
