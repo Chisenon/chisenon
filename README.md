@@ -9,8 +9,6 @@ I usually use Python and C  to study.
 ![img](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge&logo) ![img](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo) ![img](https://img.shields.io/badge/C-blue?style=for-the-badge&logo)
 
 # Oops!
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Chisenon)
-
 I don't use C much, do I?
 <br>
 Let's work harder!!!
